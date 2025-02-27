@@ -17,8 +17,8 @@ Vercel Link: final-project-fahad.vercel.app
 Final Project: https://github.com/TheMaryamIsmail/Final-Project--Developers-Hub
 
 # usama
-project: https://github.com/usama764/Final_Project
-Vercel: 
+project: https://github.com/usama764/Final_Project  <br>
+Vercel: https://coffee-shop-five-lake.vercel.app/
 
 # Duaa
 https://github.com/DuaaDaniya
